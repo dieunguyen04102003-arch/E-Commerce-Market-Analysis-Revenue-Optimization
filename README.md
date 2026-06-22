@@ -47,10 +47,31 @@ Key research activities include:
 
 #### 🎯 Insight 1: Promotional Strategy & Margin Optimization (The Discount Paradox)
 * **Finding:** Subscribers make up only 27% of the user base but consume 62% of all discounts without driving a higher Average Order Value (AOV) ($59 vs $58).
+
+| SQL Query | Power BI Dashboard |
+|:---:|:---:|
+| ![Discount SQL](https://github.com/user-attachments/assets/52a9a8bc-563d-4f38-9f83-c25b67d951ef) | ![Discount Dashboard](https://github.com/user-attachments/assets/6248a55a-12f4-43ec-a210-75ff4256d225) |
+
 * **Market Action:** Current promotions are heavily eroding margins on existing loyalists without growing basket size. Recommend transitioning from direct discounts to a **Points-Based Loyalty Program** to safeguard net profit margins.
 
 #### 📈 Insight 2: Target Audience Segmentation & Product Line Expansion
 * **Finding:** Male consumers dominate the Accessories category, generating 71% of total revenue (~$50K) in that sector.
+
+| Metric | Male + Accessories | Female + Accessories |
+| :--- | :--- | :--- |
+| Customers | 848 (69%) | 390 (31%) |
+| Total Revenue | ~$50K (71%) | ~$20K (29%) |
+| Avg Revenue / Order | $59.41 | $60.76 |
+| Total Sales | 800 (67%) | 400 (33%) |
+
+**Power BI Visualizations:**
+
+**Male + Accessories:**
+![Male Accessories](https://github.com/user-attachments/assets/37a8ed50-f24c-4e56-8035-3385d45b0768)
+
+**Female + Accessories:**
+![Female Accessories](https://github.com/user-attachments/assets/cdf7f496-cffc-4aa0-84f8-2f6d892e6470)
+
 * **Market Action:** Identify a significant product-market fit. Recommend expanding the men's accessory line (wallets, belts) for upcoming product rollouts and cross-selling them with clothing lines.
 
 ### 4. Product Funnel & Health Monitoring Concept
