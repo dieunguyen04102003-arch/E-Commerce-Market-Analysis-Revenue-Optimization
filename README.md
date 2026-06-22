@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data analytics and marketing research workflow, transforming raw transactional records into actionable business strategies. The objective is to evaluate market trends, analyze competitor-driven promotional strategies, and uncover consumer behavior insights to optimize product lifecycles and maximize platform profit margins.
 
 ### 📊 Dashboard Preview
-![E-Commerce Dashboard](https://images.prodia.xyz/8f416556-9a29-4509-a1b1-2c0926d5b0b2.png)
+> <img width="1315" height="720" alt="image" src="https://github.com/user-attachments/assets/c7558b83-4589-4e9e-9796-809dba5716cc" />
 
 Key research activities include:
 * **Market Overview & Audience Segmentation:** Profiling consumers to identify high-value segments.
